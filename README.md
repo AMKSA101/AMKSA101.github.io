@@ -1,56 +1,112 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AMKSA101.AMKSA101">
 
-<h1 align="center">Hi, I'm AMKSA101 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AMKSA101....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/yourprofile/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/AMKSA101" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://stackoverflow.com/users/yourprofile" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://twitter.com/yourprofile" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg"> Twitter</a></code>
+</h5>
+<br>
 <p align="center">
-  Welcome to my GitHub profile. I share projects, experiments, and things I'm learning.
-</p>
-<p align="center">
-  <a href="https://github.com/AMKSA101">GitHub</a>
-</p>
-
-<details>
-  <summary><strong>✅ Quick setup (click to customize)</strong></summary>
-
-  - Add your LinkedIn and Portfolio links next to the GitHub link above.
-  - Update the About Me bullets with what you're working on.
-  - Add real project links or pin your top repositories.
-</details>
-
-## ✅ What to do now
-1. Add your LinkedIn/Portfolio links next to the GitHub link above.
-2. Update the **About Me** bullets with your real focus and interests.
-3. Pin 3–6 repositories on your GitHub profile (so they appear here too).
-4. Review the Tech Stack badges and remove anything you don’t use.
-5. Commit the changes and refresh your profile to see the update.
-
-## 👋 About Me
-- 🔭 Current focus: building projects and sharpening my engineering skills
-- 🌱 Learning: DevOps tooling, databases, and clean architecture
-- 💬 Ask me about: Python, Linux, and automation
-
-## 📌 Featured Projects
-- ⭐ Pin 3–6 repositories on your GitHub profile to highlight your best work.
-- 📌 Want a list here? Add bullet links to your top repositories.
-
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMKSA101&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AMKSA101&theme=dark&hide_border=false" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMKSA101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+  Hi, I'm AMKSA101, Software Developer & Tech Enthusiast
+  <br>
+  <br>
+  🔬 I'm currently focused on building innovative projects and sharpening my engineering skills
+  <br>
+  💻 I love writing code and learning anything about it
+  <br>
+  📚 I'm currently learning DevOps tooling, databases, and clean architecture
+  <br>
+  🎯 Passionate about cybersecurity, automation, and open-source development
+  <br>
+  💬 Ask me anything about Python, Linux, Docker, and automation from <a href="https://github.com/AMKSA101/AMKSA101/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: your.email@example.com">your.email@example.com</a>
 </p>
 
-## 🏆 GitHub Trophies
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMKSA101&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="Bash" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img title="Nginx" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="MariaDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=AMKSA101&theme=react&border=61dafb&hide_border=true" alt="AMKSA101" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AMKSA101&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMKSA101&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMKSA101&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-### ✍️ Random Dev Quote
+<hr>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AMKSA101&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AMKSA101/AMKSA101.github.io" title="AMKSA101.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AMKSA101&repo=AMKSA101.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/AMKSA101?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<hr>
+
+<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AMKSA101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
