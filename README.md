@@ -15,6 +15,13 @@
   - Add real project links or pin your top repositories.
 </details>
 
+## ✅ What to do now
+1. Add your LinkedIn/Portfolio links next to the GitHub link above.
+2. Update the **About Me** bullets with your real focus and interests.
+3. Pin 3–6 repositories on your GitHub profile (so they appear here too).
+4. Review the Tech Stack badges and remove anything you don’t use.
+5. Commit the changes and refresh your profile to see the update.
+
 ## 👋 About Me
 - 🔭 Current focus: building projects and sharpening my engineering skills
 - 🌱 Learning: DevOps tooling, databases, and clean architecture
