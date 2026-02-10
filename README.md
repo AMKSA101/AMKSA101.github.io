@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AMKSA101&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AMKSA101&theme=dark&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=AMKSA101&theme=dark&hide_border=false" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMKSA101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 </p>
 
