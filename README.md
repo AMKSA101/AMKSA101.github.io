@@ -4,15 +4,13 @@
   Welcome to my GitHub profile. I share projects, experiments, and things I'm learning.
 </p>
 <p align="center">
-  <a href="https://github.com/AMKSA101">GitHub</a> •
-  <a href="https://linkedin.com/in/your-profile-here">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://github.com/AMKSA101">GitHub</a>
 </p>
 
 <details>
   <summary><strong>✅ Quick setup (click to customize)</strong></summary>
 
-  - Replace the LinkedIn and Portfolio links with your own profiles.
+  - Add your LinkedIn and Portfolio links next to the GitHub link above.
   - Update the About Me bullets with what you're working on.
   - Add real project links or pin your top repositories.
 </details>
