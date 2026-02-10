@@ -30,6 +30,38 @@
   📫 How to reach me: <a href="mailto: abdelghaniamksa@gmail.com">abdelghaniamksa@gmail.com</a>
 </p>
 
+<h2 align="center">🧾 Project Summaries (CV)</h2>
+<br>
+<div align="left">
+ft_transcendence / Full-stack Developer<br>
+Context (Academic project)<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you did: Built a multiplayer Pong web app with authentication, chat, and user profiles.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you used (tech/tools): TypeScript, NestJS, React, PostgreSQL, WebSockets, Docker.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you learned or achieved: Delivered a full-stack app with real-time features and containerized services.<br>
+<br>
+cub3d / Graphics Programmer<br>
+Context (Academic project)<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you did: Implemented a raycasting engine to render a 3D maze from a 2D map with player controls.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you used (tech/tools): C, MiniLibX, math/linear algebra.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you learned or achieved: Gained hands-on experience with graphics rendering and performance tuning.<br>
+<br>
+webserv / Backend Developer<br>
+Context (Academic project)<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you did: Wrote an HTTP/1.1 web server handling requests, routing, and error responses.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you used (tech/tools): C++98, sockets, select/poll, CGI.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you learned or achieved: Improved understanding of network programming and HTTP parsing.<br>
+<br>
+inception / DevOps Student<br>
+Context (Academic project)<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you did: Built a multi-container stack with Nginx, WordPress, and MariaDB using Docker Compose.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you used (tech/tools): Docker, Docker Compose, Nginx, MariaDB, Alpine Linux.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What you learned or achieved: Practiced container orchestration, service networking, and configuration management.<br>
+</div>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
