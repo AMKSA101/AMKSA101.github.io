@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AMKSA101.AMKSA101">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AMKSA101....;Nice+to+meet+you!&center=true&size=30">
@@ -7,27 +5,29 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yourprofile/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/abdelghani-amksa-12a9a53a9/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/AMKSA101" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"> GitHub</a></code>
-  <code><a href="https://stackoverflow.com/users/yourprofile" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://twitter.com/yourprofile" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg"> Twitter</a></code>
+  <code><a href="https://stackoverflow.com/users/22951566/amksa-abdelghani" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://x.com/abdelghaniamksa" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm AMKSA101, Software Developer & Tech Enthusiast
+  Hi, I'm AMKSA101, an enthusiastic Computer Science student interested in CyberSecurity
   <br>
   <br>
-  🔬 I'm currently focused on building innovative projects and sharpening my engineering skills
+  🎓 CS Student passionate about cybersecurity and exploring the fascinating world of ethical hacking
   <br>
-  💻 I love writing code and learning anything about it
+  🔐 I find CyberSecurity incredibly interesting and attractive - always eager to learn more
   <br>
-  📚 I'm currently learning DevOps tooling, databases, and clean architecture
+  💻 Love diving deep into security concepts, network protocols, and system vulnerabilities
   <br>
-  🎯 Passionate about cybersecurity, automation, and open-source development
+  🛡️ Currently learning penetration testing, cryptography, and security best practices
   <br>
-  💬 Ask me anything about Python, Linux, Docker, and automation from <a href="https://github.com/AMKSA101/AMKSA101/issues" title="Issues">Here</a>
+  🚀 Building projects that challenge my skills and expand my knowledge in InfoSec
   <br>
-  📫 How to reach me: <a href="mailto: your.email@example.com">your.email@example.com</a>
+  💬 Ask me anything about CyberSecurity, Python, Linux, and automation from <a href="https://github.com/AMKSA101/AMKSA101/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: abdelghaniamksa@gmail.com">abdelghaniamksa@gmail.com</a>
 </p>
 
 <hr>
