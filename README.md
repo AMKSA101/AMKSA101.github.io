@@ -5,10 +5,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/AMKSA101">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a> •
+  <a href="https://your-website.com">Portfolio</a>
 </p>
-<p align="center"><em>Replace the LinkedIn and Portfolio links (or remove them) before sharing.</em></p>
 
 <details>
   <summary><strong>✅ Quick setup (click to customize)</strong></summary>
