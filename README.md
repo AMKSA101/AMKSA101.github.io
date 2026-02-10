@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/AMKSA101">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a> •
-  <a href="https://your-website.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">LinkedIn</a> •
+  <a href="https://YOUR-WEBSITE.com">Portfolio</a>
 </p>
 
 <details>
