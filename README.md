@@ -104,16 +104,32 @@ $ cat about.txt
 
 ## 🛠️ Featured Projects
 
-### webserv — HTTP/1.1 Web Server
+### [webserv](https://github.com/BrahimJandri/Webserv) — HTTP/1.1 Web Server
 
 <div>
   <img src="https://img.shields.io/badge/C++98-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Sockets-low--level-00ff41?style=flat-square" />
   <img src="https://img.shields.io/badge/CGI-supported-00b4d8?style=flat-square" />
   <img src="https://img.shields.io/badge/Non--blocking%20I%2FO-select%2Fpoll-00b4d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collaborative-project-888888?style=flat-square" />
 </div>
 
 > Designed and implemented an HTTP/1.1 web server from scratch in C++98, capable of handling routing, error responses, and non-blocking I/O via `select`/`poll`. Deepened understanding of network programming, HTTP internals, and low-level system design.
+
+---
+
+### [ft_transcendence](https://github.com/ajabrii/ft_transcendence) — Full-Stack Web Application
+
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-real--time-00ff41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaborative-project-888888?style=flat-square" />
+</div>
+
+> Built a full-stack web application featuring real-time multiplayer Pong, live chat, and user authentication with OAuth2. A multi-developer collaborative capstone project applying modern web technologies and secure design principles.
 
 ---
 
