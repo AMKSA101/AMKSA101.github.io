@@ -83,7 +83,7 @@ $ cat about.txt
 #### 🛡️ Security & Systems
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </div>
 
 #### ⚙️ DevOps & Tools
@@ -124,7 +124,7 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
 </div>
 
 > Orchestrated a multi-container infrastructure integrating Nginx, WordPress, and MariaDB using Docker & Docker Compose. Configured service networking, persistent storage, and environment variables — gaining hands-on experience in service isolation and infrastructure management.
