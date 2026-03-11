@@ -189,11 +189,6 @@ $ cat about.txt
   <a href="https://github.com/BrahimJandri/Webserv">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrahimJandri&repo=Webserv&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00b4d8&hide_border=true&border_radius=20" />
   </a>
-  <a href="https://github.com/ajabrii/ft_transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajabrii&repo=ft_transcendence&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00b4d8&hide_border=true&border_radius=20" />
-  </a>
-</div>
-<div align="center">
   <a href="https://github.com/AMKSA101/inception">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMKSA101&repo=inception&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00b4d8&hide_border=true&border_radius=20" />
   </a>
