@@ -159,14 +159,6 @@ $ cat about.txt
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMKSA101&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub trophies" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -178,9 +170,6 @@ $ cat about.txt
 ## 👨‍💻 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/AMKSA101/webserv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMKSA101&repo=webserv&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00b4d8&hide_border=true&border_radius=10" />
-  </a>
   <a href="https://github.com/AMKSA101/inception">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMKSA101&repo=inception&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00b4d8&hide_border=true&border_radius=10" />
   </a>
@@ -196,11 +185,8 @@ $ cat about.txt
 ## ✍️ Quote
 
 <div align="center">
-
-> *"Talk is cheap. Show me the code."*
->
-> — **Linus Torvalds**
-
+  <p><em>"Talk is cheap. Show me the code."</em></p>
+  <p>— <strong>Linus Torvalds</strong></p>
 </div>
 
 ---
