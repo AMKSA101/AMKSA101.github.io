@@ -124,7 +124,7 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white" />
 </div>
 
 > Orchestrated a multi-container infrastructure integrating Nginx, WordPress, and MariaDB using Docker & Docker Compose. Configured service networking, persistent storage, and environment variables — gaining hands-on experience in service isolation and infrastructure management.
@@ -162,7 +162,7 @@ $ cat about.txt
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMKSA101&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AMKSA101&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ---
@@ -193,10 +193,14 @@ $ cat about.txt
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+> *"Talk is cheap. Show me the code."*
+>
+> — **Linus Torvalds**
+
 </div>
 
 ---
